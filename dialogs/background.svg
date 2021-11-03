@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="714"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
      id="namedview62"
      showgrid="false"
      inkscape:zoom="1.721262"
      inkscape:cx="114.16042"
      inkscape:cy="107.76976"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg129"
      inkscape:pagecheckerboard="0" />
@@ -150,40 +150,40 @@
   </defs>
   <rect
      id="hint-tile-center"
-     style="opacity:1;fill:#ff0000"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="7"
      height="7"
      x="0"
      y="-7" />
   <path
      id="topright"
-     style="opacity:0.7;fill:#2f343f;fill-opacity:1"
+     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
      d="m 104,5.000917 v 23.999998 h 24 C 128,9 124,5.000917 104,5.000917 Z" />
   <rect
      id="top"
-     style="opacity:0.7;fill:#2f343f;fill-opacity:1"
+     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
      width="80"
      height="24"
      x="24"
      y="5" />
   <rect
      id="center"
-     style="opacity:0.7;fill:#2f343f;fill-opacity:1"
+     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
      width="80"
      height="80"
      x="24"
      y="29" />
   <path
      id="topleft"
-     style="opacity:0.7;fill:#2f343f;fill-opacity:1"
+     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
      d="M 24,5.000002 V 29 H 0 C 0,9 4,5.000002 24,5.000002 Z" />
   <path
      id="bottomright"
-     style="opacity:0.7;fill:#2f343f;fill-opacity:1"
+     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
      d="m 104,132.99908 v -24 h 24 c 0,20.00092 -4,24 -24,24 z" />
   <rect
      id="bottom"
-     style="opacity:0.7;fill:#2f343f;fill-opacity:1"
+     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
      width="80"
      height="24"
      x="24"
@@ -191,11 +191,11 @@
      transform="scale(1,-1)" />
   <path
      id="bottomleft"
-     style="opacity:0.7;fill:#2f343f;fill-opacity:1"
+     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
      d="M 24.000017,133 V 109 H 1.7081479e-5 C 1.7081479e-5,129 4,133 24.000017,133 Z" />
   <rect
      id="left"
-     style="opacity:0.7;fill:#2f343f;fill-opacity:1"
+     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
      width="80"
      height="24"
      x="29"
@@ -203,7 +203,7 @@
      transform="rotate(90)" />
   <rect
      id="right"
-     style="opacity:0.7;fill:#2f343f;fill-opacity:1"
+     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
      width="80"
      height="24"
      x="29"
@@ -211,28 +211,28 @@
      transform="rotate(90)" />
   <rect
      id="hint-top-margin"
-     style="opacity:1;fill:#ff0000"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="8"
      height="12"
      x="60"
      y="29" />
   <rect
      id="hint-left-margin"
-     style="opacity:1;fill:#ff0000"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="12"
      height="8"
      x="24"
      y="63" />
   <rect
      id="hint-right-margin"
-     style="opacity:1;fill:#ff0000"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="12"
      height="8"
      x="92"
      y="63" />
   <rect
      id="hint-bottom-margin"
-     style="opacity:1;fill:#ff0000"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="8"
      height="12"
      x="60"
