@@ -5,7 +5,7 @@
    height="268"
    version="1"
    sodipodi:docname="background.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -41,7 +41,7 @@
      showgrid="false"
      inkscape:zoom="1.721262"
      inkscape:cx="114.16042"
-     inkscape:cy="107.76976"
+     inkscape:cy="105.1554"
      inkscape:window-x="0"
      inkscape:window-y="36"
      inkscape:window-maximized="1"
@@ -157,33 +157,33 @@
      y="-7" />
   <path
      id="topright"
-     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      d="m 104,5.000917 v 23.999998 h 24 C 128,9 124,5.000917 104,5.000917 Z" />
   <rect
      id="top"
-     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="80"
      height="24"
      x="24"
      y="5" />
   <rect
      id="center"
-     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="80"
      height="80"
      x="24"
      y="29" />
   <path
      id="topleft"
-     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      d="M 24,5.000002 V 29 H 0 C 0,9 4,5.000002 24,5.000002 Z" />
   <path
      id="bottomright"
-     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      d="m 104,132.99908 v -24 h 24 c 0,20.00092 -4,24 -24,24 z" />
   <rect
      id="bottom"
-     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="80"
      height="24"
      x="24"
@@ -191,11 +191,11 @@
      transform="scale(1,-1)" />
   <path
      id="bottomleft"
-     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      d="M 24.000017,133 V 109 H 1.7081479e-5 C 1.7081479e-5,129 4,133 24.000017,133 Z" />
   <rect
      id="left"
-     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="80"
      height="24"
      x="29"
@@ -203,7 +203,7 @@
      transform="rotate(90)" />
   <rect
      id="right"
-     style="opacity:0.75;fill:#2e3440;fill-opacity:1"
+     style="opacity:1;fill:#2e3440;fill-opacity:1"
      width="80"
      height="24"
      x="29"
