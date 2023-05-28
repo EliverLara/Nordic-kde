@@ -4,7 +4,7 @@
    height="16"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="checkmarks.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    version="1.0"
@@ -131,17 +131,17 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="17.751957"
-     inkscape:cx="17.265702"
-     inkscape:cy="15.660245"
+     inkscape:zoom="6.2762646"
+     inkscape:cx="17.446683"
+     inkscape:cy="15.853379"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="radiobutton"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1020"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1547"
+     inkscape:window-height="750"
+     inkscape:window-x="50"
+     inkscape:window-y="118"
+     inkscape:window-maximized="0"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -149,7 +149,9 @@
      inkscape:snap-nodes="true"
      showguides="true"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#ececec">
     <inkscape:grid
        type="xygrid"
        id="grid3774"
@@ -184,7 +186,7 @@
          cy="71"
          cx="79"
          id="path4181-6"
-         style="fill:#d08770;fill-opacity:1;stroke:none;stroke-width:1.14286" />
+         style="fill:#8fbcbb;fill-opacity:1;stroke:none;stroke-width:1.14286" />
       <circle
          style="fill:#373b43;fill-opacity:1;stroke:none;stroke-width:1.16667"
          id="circle4183-2"
@@ -195,7 +197,7 @@
          cy="71.141998"
          cx="78.856003"
          id="circle4185-9"
-         style="fill:#d08770;fill-opacity:1;stroke:none;stroke-width:0.875"
+         style="fill:#8fbcbb;fill-opacity:1;stroke:none;stroke-width:0.875"
          r="3.5" />
     </g>
     <g
@@ -203,7 +205,7 @@
        transform="translate(-291.5,-171)"
        style="fill:#17b58e;fill-opacity:1">
       <path
-         style="fill:#d08770;fill-opacity:1"
+         style="fill:#8fbcbb;fill-opacity:1"
          d="m 333.27734,235 c -1.108,0 -2,0.892 -2,2 v 12 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 v -12 c 0,-1.108 -0.892,-2 -2,-2 z"
          id="path5"
          inkscape:connector-curvature="0"
