@@ -1,24 +1,24 @@
 [Colors:Button]
 BackgroundNormal=255,255,255
-DecorationFocus=#5A8787
-DecorationHover=#5A8787
-ForegroundNormal=195,199,209
+DecorationFocus=#68819A
+DecorationHover=#68819A
+ForegroundNormal=#d8dee9
 
 [Colors:Complementary]
 BackgroundNormal=32,32,32
-DecorationFocus=#5A8787
-DecorationHover=#5A8787
-ForegroundNormal=195,199,209
+DecorationFocus=#68819A
+DecorationHover=#68819A
+ForegroundNormal=#d8dee9
 
 [Colors:View]
 BackgroundNormal=#3b4252
-DecorationFocus=#5A8787
-DecorationHover=#5A8787
-ForegroundNormal=195,199,209
+DecorationFocus=#68819A
+DecorationHover=#68819A
+ForegroundNormal=#d8dee9
 
 [Colors:Window]
 BackgroundNormal=#2e3440
-DecorationHover=#5A8787
+DecorationHover=#68819A
 ForegroundLink=3,77,179
-ForegroundNormal=195,199,209
+ForegroundNormal=#d8dee9
 ForegroundVisited=153,93,198
